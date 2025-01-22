@@ -85,11 +85,19 @@ button:focus-visible {
 }
 .card{
   height: 400px;
-  width: calc(100%/3.5);
   background-color: #ddd;
   box-shadow: #747bff;
   padding: 20px;
 }
 .flex-wrap{
   flex-wrap: wrap;
+}
+.rating{
+  padding: 10px;
+}
+.super_hit{
+  color: green;
+}
+.average{
+  color: red;
 }
