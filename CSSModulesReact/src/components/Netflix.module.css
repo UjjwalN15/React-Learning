@@ -1,0 +1,25 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+    background-color: blue;
+    padding:30px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.card{
+    height: 350px;
+    background-color: aqua;
+    padding:20px;
+}
+.super_hit{
+    color:green;
+}
+.average{
+    color:red;
+}
+.rating{
+    font-size:30px;
+}

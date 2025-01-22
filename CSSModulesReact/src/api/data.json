@@ -1,0 +1,48 @@
+[
+    {
+      "image_url": "https://via.placeholder.com/400x600.png?text=The+Silent+Wave",
+      "name": "The Silent Wave",
+      "id": 1,
+      "rating": 8.5,
+      "genre": "Drama",
+      "cast": ["Alice Johnson", "Mark Richards", "Sophia Blake"],
+      "watch_url": "https://www.netflix.com/title/123456"
+    },
+    {
+      "image_url": "https://via.placeholder.com/400x600.png?text=Galactic+Venture",
+      "name": "Galactic Venture",
+      "id": 2,
+      "rating": 7.8,
+      "genre": "Sci-Fi",
+      "cast": ["James Carter", "Lily Evans", "Peter Clarke"],
+      "watch_url": "https://www.amazon.com/dp/B08XYZ1234"
+    },
+    {
+      "image_url": "https://via.placeholder.com/400x600.png?text=Mystic+Falls",
+      "name": "Mystic Falls",
+      "id": 3,
+      "rating": 9.2,
+      "genre": "Fantasy",
+      "cast": ["Emma Watson", "Daniel Green", "Olivia Stone"],
+      "watch_url": "https://www.hulu.com/movie/456789"
+    },
+    {
+      "image_url": "https://via.placeholder.com/400x600.png?text=Cyber+Chase",
+      "name": "Cyber Chase",
+      "id": 4,
+      "rating": 7.4,
+      "genre": "Action",
+      "cast": ["Chris Brown", "Megan Sparks", "Tom Daniels"],
+      "watch_url": "https://www.disneyplus.com/video/987654"
+    },
+    {
+      "image_url": "https://via.placeholder.com/400x600.png?text=Echoes+of+Love",
+      "name": "Echoes of Love",
+      "id": 5,
+      "rating": 8.0,
+      "genre": "Romance",
+      "cast": ["Emily Davis", "Andrew Miles", "Sarah Connor"],
+      "watch_url": "https://www.primevideo.com/title/098765"
+    }
+  ]
+  
