@@ -34,12 +34,13 @@
 
 // export default App
 
-import {ParentComponent} from '../src/components/EventProps'
+import {ParentComponent, EventPropagation} from '../src/components/EventProps'
 export default function App(){
   return(
     <>
       <h1>Events as Props</h1>
       <ParentComponent />
+      <EventPropagation />
     </>
   );
 }
