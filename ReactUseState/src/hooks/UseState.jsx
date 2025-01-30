@@ -11,7 +11,7 @@ export const ReactUseState = ()=>{
     //         <button onClick={handleIncrement}>Increment By clicking</button>
     //     </>
     // );
-    let [array, setArray] = useState(0);
+    const [array, setArray] = useState(0); // Using let is good but const is recommended
     const handleIncrement = () => {
         setArray(()=>array+1)
     };
